@@ -1,0 +1,16 @@
+[package]
+name = "airagi"
+version = "0.0.1"
+edition = "2021"
+license = "MIT OR Apache-2.0"
+description = "The Air Artificial General Intelligence"
+homepage = "https://github.com/LambdaAlpha/airagi-doc"
+repository = "https://github.com/LambdaAlpha/airagi"
+keywords = ["air", "ai", "agi", "solver", "logic"]
+categories = ["science"]
+
+[dependencies.airlang]
+version = "0.0.10"
+
+[dependencies.airlang_ext]
+version = "0.0.10"
